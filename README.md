@@ -1,4 +1,4 @@
-# flower_image_classifier
+# Flower Image Classifier
 Image classifier for classifying flower types using a pre-trained neural network (either vgg19 or alexnet). 
 
 # Data
