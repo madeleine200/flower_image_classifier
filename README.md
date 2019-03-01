@@ -1,11 +1,11 @@
 # Flower Image Classifier
 Image classifier for classifying flower types using a pre-trained neural network (either vgg19 or alexnet). 
 
-# Data
+## Data
 The dataset used to train the neural network is the 102 Category Flower Dataset. It contains 102 different categories of flowers. Each category contains between 40 and 258 images. 
 More information about the dataset can be found here: http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html
 
-# Files 
+## Files 
 This classifier uses four .py files and a .json file:
 * model_settings.py  
   This file defines the functions used in the main train.py and predict.py files
